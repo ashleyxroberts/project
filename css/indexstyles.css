@@ -1,0 +1,47 @@
+body {
+  padding-top: 5px;
+
+}
+
+body {
+    background-color: #E2DFD7;
+    color: #3f2a14;
+    font-family: arial;
+}
+
+.navbar-custom a {
+    color: #3f2a14;
+    letter-spacing: 0.1em;
+    font-size: 1.1em;
+    padding-top: 0px;
+}
+
+.navbar-custom a:hover {
+    color: #4E5340;
+    letter-spacing: 0.1em;
+    font-size: 1.1em;
+    padding-top: 0px;
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 480px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.container {
+  letter-spacing: 0.1em;
+}
+
+.container-heading {
+  letter-spacing: 0.2em;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: -30px;
+
+}
