@@ -55,7 +55,7 @@ body {
   margin-left: -100px;
 }
 
-.column {
+.col-sm {
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
@@ -64,8 +64,8 @@ body {
 }
 
 
-@media screen and (max-width: 600px) {
-  .column {
+@media screen and (max-width: 1200px) {
+  .column1 {
     width: 100%;
   }
 }

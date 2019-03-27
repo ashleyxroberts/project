@@ -9,6 +9,10 @@ body {
     font-family: arial;
 }
 
+h3 {
+  letter-spacing: 0.05em;
+}
+
 .navbar-custom a {
     color: #3f2a14;
     letter-spacing: 0.1em;
@@ -55,7 +59,7 @@ body {
   margin-left: -100px;
 }
 
-.column {
+.col-sm {
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
@@ -64,12 +68,13 @@ body {
 }
 
 .column2 {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 
-@media screen and (max-width: 600px) {
-  .column {
+@media screen and (max-width: 1200px) {
+  .column1 {
     width: 100%;
+    align-items: center;
   }
 }
