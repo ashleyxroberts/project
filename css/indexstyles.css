@@ -8,13 +8,13 @@ body {
 h3 {
   text-align: center;
   letter-spacing: 0.05em;
-  font-size:2vw
+
 }
 
 h1 {
   text-align: center;
   letter-spacing: 0.05em;
-  font-size: 3vw
+
 
 }
 
@@ -50,5 +50,17 @@ h1 {
   padding-right: 100px;
   margin-top: 2vw;
   margin-bottom: 2vw;
+
+}
+
+@media only screen and (max-width: 767px) {
+
+   h1 {
+      font-size: 4.5vw;
+   }
+
+   h3 {
+      font-size: 3.4vw;
+   }
 
 }
