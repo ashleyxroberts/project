@@ -3,11 +3,11 @@ body {
   background-color: #E2DFD7;
   color: #3f2a14;
   font-family: arial;
-
 }
 
 h3 {
   text-align: center;
+  letter-spacing: 0.05em;
   font-size: 2.5vw;
 }
 
