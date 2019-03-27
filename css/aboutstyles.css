@@ -62,10 +62,3 @@ body {
   float: left;
   width: 50%;
 }
-
-
-@media screen and (max-width: 1200px) {
-  .column1 {
-    width: 100%;
-  }
-}
