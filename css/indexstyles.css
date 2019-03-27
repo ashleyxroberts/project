@@ -4,27 +4,34 @@ body {
 }
 
 body {
-    background-color: #E2DFD7;
-    color: #3f2a14;
-    font-family: arial;
+  background-color: #E2DFD7;
+  color: #3f2a14;
+  font-family: arial;
 }
 
 h3 {
   letter-spacing: 0.05em;
+  font-size:2vw
+}
+
+h1 {
+  letter-spacing: 0.05em;
+  font-size: 3vw
+
 }
 
 .navbar-custom a {
-    color: #3f2a14;
-    letter-spacing: 0.1em;
-    font-size: 1.1em;
-    padding-top: 0px;
+  color: #3f2a14;
+  letter-spacing: 0.1em;
+  font-size: 1.1em;
+  padding-top: 0px;
 }
 
 .navbar-custom a:hover {
-    color: #697268;
-    letter-spacing: 0.1em;
-    font-size: 1.1em;
-    padding-top: 0px;
+  color: #697268;
+  letter-spacing: 0.1em;
+  font-size: 1.1em;
+  padding-top: 0px;
 }
 
 .bg-image-full {

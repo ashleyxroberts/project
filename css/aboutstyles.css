@@ -4,27 +4,23 @@ body {
 }
 
 body {
-    background-color: #E2DFD7;
-    color: #3f2a14;
-    font-family: arial;
-}
-
-h3 {
-  letter-spacing: 0.05em;
+  background-color: #E2DFD7;
+  color: #3f2a14;
+  font-family: arial;
 }
 
 .navbar-custom a {
-    color: #3f2a14;
-    letter-spacing: 0.1em;
-    font-size: 1.1em;
-    padding-top: 0px;
+  color: #3f2a14;
+  letter-spacing: 0.1em;
+  font-size: 1.1em;
+  padding-top: 0px;
 }
 
 .navbar-custom a:hover {
-    color: #697268;
-    letter-spacing: 0.1em;
-    font-size: 1.1em;
-    padding-top: 0px;
+  color: #697268;
+  letter-spacing: 0.1em;
+  font-size: 1.1em;
+  padding-top: 0px;
 }
 
 .bg-image-full {
@@ -67,14 +63,9 @@ h3 {
   width: 50%;
 }
 
-.column2 {
-  margin-top: 20px;
-}
-
 
 @media screen and (max-width: 1200px) {
   .column1 {
     width: 100%;
-    align-items: center;
   }
 }
