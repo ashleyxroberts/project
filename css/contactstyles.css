@@ -35,6 +35,17 @@ h1 {
 
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  background: #E2DFD7;
+  color: #3f2a14;
+
+}
 
 @media only screen and (max-width: 767px) {
 
