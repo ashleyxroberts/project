@@ -19,6 +19,11 @@ body {
   padding-top: 0px;
 }
 
+h3 {
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
 .bg-image-full {
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
@@ -46,4 +51,15 @@ position: fixed;
   bottom: 0;
   width: 100%;
   text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+
+   h3 {
+      font-size: 2.71vw;
+   }
+
+   footer {
+     font-size: 2.71vw;
+   }
 }
