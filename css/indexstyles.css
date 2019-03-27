@@ -9,6 +9,10 @@ body {
     font-family: arial;
 }
 
+h3 {
+  letter-spacing: 0.05em;
+}
+
 .navbar-custom a {
     color: #3f2a14;
     letter-spacing: 0.1em;
@@ -17,7 +21,7 @@ body {
 }
 
 .navbar-custom a:hover {
-    color: #4E5340;
+    color: #697268;
     letter-spacing: 0.1em;
     font-size: 1.1em;
     padding-top: 0px;
@@ -43,5 +47,6 @@ body {
   padding-left: 100px;
   padding-right: 100px;
   margin-top: -30px;
+  text-align: center;
 
 }
