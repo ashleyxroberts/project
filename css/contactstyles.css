@@ -54,6 +54,19 @@ form {
 
 }
 
+input {
+  width: 50%;
+  background-color: #E2DFD7;
+  color: #3f2a14;
+}
+
+textarea {
+  width: 50%;
+  background-color: #E2DFD7;
+  color: #3f2a14;
+}
+
+
 @media only screen and (max-width: 767px) {
 
   h1 {
