@@ -71,10 +71,22 @@
   </nav>
 
   <!-- Content section -->
-    <div class="container-heading">
-      <h1> Say Hello </h1>
-      <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3WI8GPiX24SRwKObgB6M9RcOgw9JFHdevTnOcKWQvyOduMg/viewform?embedded=true" width="360" height="530" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></center>
-    </div>
+  <section class="overlay">
+    <h1>Say Hello</h1>
+    <form action="submission.html" method="GET">
+      <label for="name">Your name</label>
+      <br>
+      <input id="name" name="name" type="text" required minlength="1" maxlength="50">
+      <br>
+      <label for="number">Your phone number</label>
+      <br>
+      <!--Add the pattern attribute to the input below-->
+      <input id="number" name="number" type="number" required minlength="10" maxlength="15">
+      <br>
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+</body>
 
 
 
