@@ -47,6 +47,14 @@ h1 {
 
 }
 
+form {
+  text-align: center;
+  line-height: 3em;
+  height: 80%;
+  overflow: auto;
+  
+}
+
 @media only screen and (max-width: 767px) {
 
   h1 {
