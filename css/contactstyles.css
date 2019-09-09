@@ -36,16 +36,45 @@ h1 {
 }
 
 .fa {
-  padding: 20px;
+  padding: 10px;
   font-size: 30px;
   width: 50px;
   text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
   background: #E2DFD7;
   color: #3f2a14;
 
 }
+
+form {
+  text-align: center;
+  line-height: 1em;
+  height: 80%;
+  overflow: auto;
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+
+input {
+  width: 30%;
+  background-color: #f7f5f0;
+  color: #3f2a14;
+  border: solid .5px #3f2a14;
+  line-height: 2em;
+  padding: 0 10px;
+  text-transform: uppercase;
+}
+
+textarea {
+  width: 30%;
+  background-color: #f7f5f0;
+  color: #3f2a14;
+  border: solid .5px #3f2a14;
+  line-height: 2em;
+  padding: 0 10px;
+
+}
+
+
 
 @media only screen and (max-width: 767px) {
 
