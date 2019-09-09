@@ -47,24 +47,33 @@ h1 {
 
 form {
   text-align: center;
-  line-height: 2em;
+  line-height: 1em;
   height: 80%;
   overflow: auto;
-  padding-top: 20px;
-
+  text-transform: uppercase;
+  margin: 20px 0;
 }
 
 input {
-  width: 50%;
-  background-color: #E2DFD7;
+  width: 30%;
+  background-color: #f7f5f0;
   color: #3f2a14;
+  border: solid .5px #3f2a14;
+  line-height: 2em;
+  padding: 0 10px;
+  text-transform: uppercase;
 }
 
 textarea {
-  width: 50%;
-  background-color: #E2DFD7;
+  width: 30%;
+  background-color: #f7f5f0;
   color: #3f2a14;
+  border: solid .5px #3f2a14;
+  line-height: 2em;
+  padding: 0 10px;
+
 }
+
 
 
 @media only screen and (max-width: 767px) {
