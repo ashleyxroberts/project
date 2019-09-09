@@ -3,6 +3,8 @@ body {
   background-color: #E2DFD7;
   color: #3f2a14;
   font-family: arial;
+  font-weight: bold;
+
 }
 
 .navbar-custom a {
@@ -23,6 +25,7 @@ h3 {
   letter-spacing: 0.1em;
   text-align: center;
 }
+
 
 .bg-image-full {
   background: no-repeat center center scroll;
@@ -68,7 +71,12 @@ position: fixed;
 @media only screen and (max-width: 767px) {
 
    h3 {
-      font-size: 2.71vw;
+      font-size: 3.3vw;
+      margin: 0;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-weight: bold;
+
    }
 
    footer {
