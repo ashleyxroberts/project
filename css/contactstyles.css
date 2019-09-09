@@ -35,12 +35,22 @@ h1 {
 
 }
 
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  background: #E2DFD7;
+  color: #3f2a14;
+
+}
+
 form {
   text-align: center;
-  line-height: 3em;
+  line-height: 2em;
   height: 80%;
   overflow: auto;
-  text-transform: uppercase;
+  padding-top: 20px;
 
 }
 
