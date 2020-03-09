@@ -33,10 +33,10 @@ body {
   }
 
   .container-fluid {
-    padding-top: 25px;
+    padding-top: 25px !important;
 
   }
-  
+
   .bg-grey {
     background-color: #f6f6f6;
     text-align: center;
