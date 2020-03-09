@@ -23,8 +23,7 @@ body {
   	background-color: #fff;
     color: #000;
     font-family: Montserrat, sans-serif;
-    padding-top: 100px !important;
-    padding-bottom: 25px !important;
+
 }
   }
   .container {
@@ -94,7 +93,7 @@ body {
     color: #fff;
   }
   .navbar {
-    margin-bottom: 25px;
+    margin-bottom: 70px !important;
     background-color: #ffffff;
     z-index: 9999;
     border: 0;
