@@ -36,7 +36,7 @@ h1 {
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: 300px 400px;
   -o-background-size: cover;
   height: 480px;
   width: 60%;
