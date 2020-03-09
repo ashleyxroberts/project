@@ -38,6 +38,7 @@ h1 {
   -moz-background-size: cover;
   background-size: 900px 400px;
   -o-background-size: cover;
+  height: 480px;
   width: 60%;
   margin-top: 10px;
 }
