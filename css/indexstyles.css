@@ -121,6 +121,12 @@ body {
     border-color: transparent;
     color: #fff !important;
   }
+
+  .form-group {
+    padding-right: 25px !important;
+
+  }
+
   footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
