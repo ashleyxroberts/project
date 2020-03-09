@@ -36,7 +36,7 @@ h1 {
 .col-sm-6 {
   background-image: url('https://i.etsystatic.com/19234569/r/il/103ed5/1819569169/il_794xN.1819569169_8irn.jpg');
   height: 700px;
-  
+
 }
 
 .other {
@@ -46,7 +46,13 @@ h1 {
 
 }
 
-
+.footer {
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
 
 }
 
