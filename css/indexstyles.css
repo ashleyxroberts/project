@@ -26,6 +26,8 @@ body {
   }
   .container-fluid {
     padding: 60px 50px;
+    text-align: center;
+    
 
   }
   .bg-grey {
