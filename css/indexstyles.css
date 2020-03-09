@@ -22,12 +22,10 @@ body {
   .jumbotron {
   	background-color: #fff;
     color: #000;
-    padding: 100px 25px 100px 25px;
     font-family: Montserrat, sans-serif;
 }
   }
   .container {
-    padding: 25px;
     text-align: center;
 
   }
