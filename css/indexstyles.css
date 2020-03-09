@@ -162,7 +162,7 @@ body {
     }
   }
   @media screen and (max-width: 768px) {
-    .col-sm-4 {
+    .col-sm-8 {
       text-align: center;
       margin: 25px 0;
     }
