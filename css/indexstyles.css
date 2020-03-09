@@ -92,7 +92,7 @@ body {
     color: #fff;
   }
   .navbar {
-    margin-bottom: 0;
+    margin-bottom: 25px;
     background-color: #ffffff;
     z-index: 9999;
     border: 0;
