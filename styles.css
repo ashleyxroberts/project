@@ -25,6 +25,6 @@ body {
   width: 70%;
 }
 
-body.h4 {
+body h4 {
   padding-bottom: 5px;
 }
