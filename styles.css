@@ -28,3 +28,7 @@ body {
 body h4 {
   padding-bottom: 5px;
 }
+
+.jumbotron {
+  padding: 0px;
+}
