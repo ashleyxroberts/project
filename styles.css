@@ -31,11 +31,16 @@ body h4 {
 }
 
 .jumbotron {
-  padding: 0px;
-  margin: 0px;
+  padding: 0px 0px;
+  margin: 0px 0px;
 }
 
 h1 {
   padding: 0px;
   margin: 0px;
+}
+
+.jumbotron.text-center {
+  padding: 0px 0px;
+  margin: 0px 0px;
 }
